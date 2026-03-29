@@ -181,7 +181,7 @@ It transforms raw Instagram metrics into meaningful insights and enables predict
 
 ## License
 
-MIT
+[MIT](./LICENSE)
 
 ---
 
